@@ -33,15 +33,15 @@ Participants will access a cloud-hosted Linux-based VM with pre-installed tools.
 
 | Time       | Session                                                 | Speaker(s)                               |
 |------------|---------------------------------------------------------|-------------------------------------------|
-| 1:00 pm    | Welcome                                                 | [Tavia Evans](https://www.gbhi.org/profiles/tavia-evans) & [Emma Luckett](https://amypad.eu/news/recent-news/interview-with-emma-luckett/) |
-| 1:15 pm   | Session 1: Designing your genetics experiment           | [Eugenia Domingo-Güell](https://www.linkedin.com/in/eug%C3%A8nia-domingo-g%C3%BCell-364b9329a/) |
-| 1:25 pm   | Session 2: How to get data, QC, and imputation          | [Da Ma]() |
-| 2:15 pm    | Session 3: SNP association analysis                     | [Derek Archer](https://www.vumc.org/neurology/person/derek-b-archer-phd)  |
-| 3:00 pm    | **Break**                                               |                                           |
-| 3:15 pm    | Session 4: Genome Wide Association Studies (GWAS)       | [Gerard Temprano-Sagrera](https://www.linkedin.com/in/gerard-temprano-sagrera/?locale=es)      |
-| 4:00 pm   | Session 5: Polygenic Risk Score (PRS) calculation with PRSice      | [Emma Luckett](https://amypad.eu/news/recent-news/interview-with-emma-luckett/) |
-| 4:40 pm   | Session round up: Open discussion and Q&A - Recap, key concepts, discuss applications and address participants questions   | [Natalia Vilor-Tejedor](https://research-portal.uu.nl/en/persons/natalia-vilor-tejedor/)  |
-| 4:55 pm   | End and evaluation                                            | [Emma Luckett](https://amypad.eu/news/recent-news/interview-with-emma-luckett/) & [Tavia Evans](https://www.gbhi.org/profiles/tavia-evans)  |
+| 1:00pm    | Welcome                                                 | [Tavia Evans](https://www.gbhi.org/profiles/tavia-evans) & [Emma Luckett](https://amypad.eu/news/recent-news/interview-with-emma-luckett/) |
+| 1:15pm   | Session 1: Designing your genetics experiment           | [Eugenia Domingo-Güell](https://www.linkedin.com/in/eug%C3%A8nia-domingo-g%C3%BCell-364b9329a/) |
+| 1:25pm   | Session 2: How to get data, QC, and imputation          | [Da Ma]() |
+| 2:15pm    | Session 3: SNP association analysis                     | [Derek Archer](https://www.vumc.org/neurology/person/derek-b-archer-phd)  |
+| 3:00pm    | **Break**                                               |                                           |
+| 3:15pm    | Session 4: Genome Wide Association Studies (GWAS)       | [Gerard Temprano-Sagrera](https://www.linkedin.com/in/gerard-temprano-sagrera/?locale=es)      |
+| 4:00pm   | Session 5: Polygenic Risk Score (PRS) calculation with PRSice | [Emma Luckett](https://amypad.eu/news/recent-news/interview-with-emma-luckett/) |
+| 4:40pm   | Session round up: Open discussion and Q&A | [Natalia Vilor-Tejedor](https://research-portal.uu.nl/en/persons/natalia-vilor-tejedor/) |
+| 4:55pm   | End and evaluation | [Emma Luckett](https://amypad.eu/news/recent-news/interview-with-emma-luckett/) & [Tavia Evans](https://www.gbhi.org/profiles/tavia-evans)  |
 
 ---
 
