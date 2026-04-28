@@ -1,1 +1,1 @@
-# aaic2026-basic-genetics-workshop
+# Basics of Genetic Analysis - AAIC 2026
