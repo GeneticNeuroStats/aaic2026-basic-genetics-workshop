@@ -1,10 +1,5 @@
----
-layout: default
-title: AAIC 2026 - Basics of Genetics Workshop
----
-
   
-# 🧬 Basics of Genetic Analysis  
+# 🧬 AAIC 2026 - Basics of Genetics Workshop
   
 📅 **Friday, July 10th, 2026** | 🕗 **1:00 pm – 5:00 pm**  
 📍 *InterContinental London The O2 Hotel – Waterview Drive Greenwich Peninsula, London, SE10 0TW United Kingdom*  
