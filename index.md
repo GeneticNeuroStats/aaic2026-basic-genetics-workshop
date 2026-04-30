@@ -1,4 +1,3 @@
-  
 # 🧬 AAIC 2026 - Basics of Genetics Workshop
   
 📅 **Friday, July 10th, 2026** | 🕗 **1:00 pm – 5:00 pm**  
