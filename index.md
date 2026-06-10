@@ -51,6 +51,7 @@ Participants will access a cloud-hosted Linux-based VM with pre-installed tools.
 
 - Bring your own **laptop** (tablets won’t work)
 - Review pre-recorded webinars (linked below)
+- Review [**Introduction to the command line materials**](sections/Workshop_CommandLine_updated.pptx)
 - Use the provided **VM environment** for all exercises
 
 ---
