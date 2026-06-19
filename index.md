@@ -51,7 +51,7 @@ Participants will access a cloud-hosted Linux-based VM with pre-installed tools.
 
 - Bring your own **laptop** (tablets won’t work)
 - Review pre-recorded webinars (linked below)
-- Review [**Introduction to the command line materials**](sections/Workshop_CommandLine_updated.pptx)
+- Review [**Introduction to the command line materials**](sections/0_SupplementalMaterials_Workshop_CommandLine_updated2026.pdf))
 - Use the provided **VM environment** for all exercises
 
 ---
@@ -60,12 +60,12 @@ Participants will access a cloud-hosted Linux-based VM with pre-installed tools.
 
 | Webinar Topic                    | Slides                     |
 |----------------------------------|----------------------------|
-| Welcome                          | [Welcome](sections/S0_XXXX.pdf) |
-| Design your genetics experiment  | [Slides Intro](sections/S1_XXXX.pdf) |
+| Welcome                          | Welcome |
+| Design your genetics experiment  | [Slides Intro](sections/1_BasicsGeneticsAnalysis_Intro.pdf) |
 | QC and Imputation                | [Slides QC Imputation](sections/S2_XXXX.pdf), [Pipeline QC](sections/Script_Genetic_QC.html), [Pipeline Imputation](sections/Script_Genetic_Imputation.html) |
 | Single SNP association analysis  | [Slides SNP association](sections/S3_XXXX.pdf), [Pipeline SNP analysis](sections/Script_Single_SNP_association_analysis.html) |
-| Genome Wide Association Studies  | [Slides GWAS](sections/S4_XXXX.pdf), [Pipeline GWAS](sections/Script_GWAS.html) |
-| Polygenic Risk Scores            | [Slides PRS](sections/S5_XXXX.pdf) |
+| Genome Wide Association Studies  | [Slides GWAS](sections/3_GTempranoSagrera_GWAS_2026.pdf), [Pipeline GWAS](sections/Script_GWAS.html) |
+| Polygenic Risk Scores            | [Slides PRS](sections/4_ELuckett_PRS_2026.pdf) |
 | Q&A                              | [Slides Q&A](sections/Q&A_XXXX.pdf) |
 | Post Survey Feedback             | [Survey/Feedback](sections/SF_XXXX.pdf) |
 
