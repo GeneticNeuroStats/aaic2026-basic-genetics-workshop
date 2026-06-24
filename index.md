@@ -60,14 +60,14 @@ Participants will access a cloud-hosted Linux-based VM with pre-installed tools.
 
 | Webinar Topic                    | Slides                     |
 |----------------------------------|----------------------------|
-| Welcome                          | Welcome |
+| Welcome                          | [Welcome](sections/0_EvansLuckett_Welcome ISTAART Immersives Speakers.pdf)  |
 | Design your genetics experiment  | [Slides Intro](sections/1_EDomingo_BasicsGeneticsAnalysis_Intro.pdf) |
 | QC and Imputation                | [Slides QC Imputation](sections/2_DMa_Genetic_QC_Imputation_Slides.pdf), [Pipeline QC](sections/Script_Genetic_QC.html), [Pipeline Imputation](sections/Script_Genetic_Imputation.html) |
 | Single SNP association analysis  | [Slides SNP association](sections/3_Archer_SNPBased_Analysis.pdf), [Pipeline SNP analysis](sections/Script_Single_SNP_association_analysis.html) |
 | Genome Wide Association Studies  | [Slides GWAS](sections/4_GTempranoSagrera_GWAS_2026.pdf), [Pipeline GWAS](sections/Script_GWAS.html) |
 | Polygenic Risk Scores            | [Slides PRS](sections/5_ELuckett_PRS_2026.pdf) |
 | Q&A                              | [Slides Q&A](sections/6_NVilorTejedor_Q&A.pdf) |
-| Post Survey Feedback             | [Survey/Feedback](sections/SF_XXXX.pdf) |
+| Post Survey Feedback             | [Survey/Feedback](sections/X_EvansLuckett_END ISTAART Immersives Speakers.pdf) |
 
 ---
 
