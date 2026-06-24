@@ -29,7 +29,7 @@ Participants will access a cloud-hosted Linux-based VM with pre-installed tools.
 |------------|---------------------------------------------------------|-------------------------------------------|
 | 1:00pm    | Welcome                                                 | [Tavia Evans](https://www.gbhi.org/profiles/tavia-evans) & [Emma Luckett](https://amypad.eu/news/recent-news/interview-with-emma-luckett/) |
 | 1:15pm   | Session 1: Designing your genetics experiment           | [Eugenia Domingo-Güell](https://www.linkedin.com/in/eug%C3%A8nia-domingo-g%C3%BCell-364b9329a/) |
-| 1:25pm   | Session 2: How to get data, QC, and imputation          | [Da Ma]() |
+| 1:25pm   | Session 2: How to get data, QC, and imputation          | [Da Ma]( https://da-ma-dm.github.io/) |
 | 2:15pm    | Session 3: SNP association analysis                     | [Derek Archer](https://www.vumc.org/neurology/person/derek-b-archer-phd)  |
 | 3:00pm    | **Break**                                               |                                           |
 | 3:15pm    | Session 4: Genome Wide Association Studies (GWAS)       | [Gerard Temprano-Sagrera](https://www.linkedin.com/in/gerard-temprano-sagrera/?locale=es)      |
